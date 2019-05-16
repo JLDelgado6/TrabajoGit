@@ -1,0 +1,11 @@
+TRABAJO GIT:
+
+Parte Introducción (Laura tiene hecho parte Funcionamiento)
+
+Instalar GIT en casa.
+
+
+¿Qué es? ¿Cuáles son los objetivos que persigue?
+
+¿Qué es GitHub? ¿Qué es GitLab?
+
